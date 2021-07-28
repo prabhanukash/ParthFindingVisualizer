@@ -1,1 +1,1 @@
-# ParthFindingVisualizer
+# PathFindingVisualizer
