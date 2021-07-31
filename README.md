@@ -5,6 +5,8 @@ Developed a Graphical User Interface using React Framework to visualize Pathfind
 2. A* Algorithm
 3. Breadth First Search
 4. Depth First Search!
+
+
 ![Grid](https://user-images.githubusercontent.com/46644862/127726402-17298d55-3d18-4fb1-9534-47d696ac8109.JPG)
 ![walls](https://user-images.githubusercontent.com/46644862/127726393-22170e3d-9868-4334-912f-67df1df0b267.JPG)
 ![Dijsktra_demo](https://user-images.githubusercontent.com/46644862/127726396-1f7a3bd0-c076-40b3-91b6-e649b4431ad2.JPG)
