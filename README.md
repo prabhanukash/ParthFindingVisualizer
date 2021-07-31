@@ -2,9 +2,9 @@
 Developed a Graphical User Interface using React Framework to visualize Pathfinding Algorithms 
 # Pathfinding Algorithms:
 1. Dijkstra's Algorithm
-2. A* Algorithm
+2. Depth First Search
 3. Breadth First Search
-4. Depth First Search!
+4.A* Algorithm
 
 
 ![Grid](https://user-images.githubusercontent.com/46644862/127726402-17298d55-3d18-4fb1-9534-47d696ac8109.JPG)
