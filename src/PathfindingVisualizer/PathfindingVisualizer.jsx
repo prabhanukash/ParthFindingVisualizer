@@ -1,34 +1,34 @@
 import React, { Component } from "react";
-import "./PathfindingVisualizer.css";
-import Node from "./Node/Node";
+import "./pathfindingVisualizer.css";
+import Node from "./Node/node";
 import NavBar from "./navbar";
 
 //Pathfinding Algorithms
 import {
   dijkstra,
   getNodesInShortestPathOrderDijkstra,
-} from "../algorithms/dijkstra";
+} from "../pathfindingAlgorithms/dijkstra";
 import {
   astar,
   getNodesInShortestPathOrderAstar,
-} from "../algorithms/AStar";
+} from "../pathfindingAlgorithms/astar";
 import {
   breadthFirstSearch,
   getNodesInShortestPathOrderBFS,
-} from "../algorithms/bfs";
+} from "../pathfindingAlgorithms/breadthFirstSearch";
 import {
   depthFirstSearch,
   getNodesInShortestPathOrderDFS,
-} from "../algorithms/dfs";
-import { randomWalk } from "../algorithms/randomWalk";
+} from "../pathfindingAlgorithms/depthFirstSearch";
+import { randomWalk } from "../pathfindingAlgorithms/randomWalk";
 import {
   greedyBFS,
   getNodesInShortestPathOrderGreedyBFS,
-} from "../algorithms/greedyBfs";
+} from "../pathfindingAlgorithms/greedyBestFirstSearch";
 import {
   bidirectionalGreedySearch,
   getNodesInShortestPathOrderBidirectionalGreedySearch,
-} from "../algorithms/bidirectionalGreedySearch";
+} from "../pathfindingAlgorithms/bidirectionalGreedySearch";
 
 //Maze Algorithms
 import { randomMaze } from "../mazeAlgorithms/randomMaze";

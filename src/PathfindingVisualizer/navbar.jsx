@@ -154,10 +154,10 @@ class NavBar extends Component {
 
   render() {
     return (
-      <nav className="navbar navbar-expand navbar-dark">
+      <nav className="navbar navbar-expand navbar-dark bg-dark">
         <a
           className="navbar-brand h1 mb-0"
-          href="#"
+          href="https://rohithaug.github.io/pathfinding-visualizer/"
         >
           {brand}
         </a>
