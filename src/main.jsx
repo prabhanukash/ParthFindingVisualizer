@@ -4,7 +4,7 @@ import "./index.css";
 import * as serviceWorker from "./serviceWorker";
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap/js/dist/dropdown";
-import PathfindingVisualizer from "./PathfindingVisualizer/PathfindingVisualizer";
+import PathfindingVisualizer from "./pathfindingVisualizer/pathfindingVisualizer";
 
 ReactDOM.render(
   <React.StrictMode>
