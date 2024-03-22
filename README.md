@@ -1,8 +1,19 @@
-# React + Vite
+# PATHFINDING AND MAZE GENERATION VISUALIZER
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Graphical User Interface built using React Framework to visualize Pathfinding Algorithms and Maze Generation Algorithms.
+[Try the visualizer here](https://path-finding-visualizer-db0.pages.dev/)
 
-Currently, two official plugins are available:
+## Pathfinding Algorithms:
+1. Dijkstra's Algorithm
+2. A* Algorithm
+3. Greedy Best First Search
+4. Bidirectional Greedy Search
+5. Breadth First Search
+6. Depth First Search
+7. Random Walk
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Maze Generation Algorithms:
+1. Random Maze
+2. Recursive Division Maze
+3. Vertical Division Maze
+4. Horizontal Division Maze
