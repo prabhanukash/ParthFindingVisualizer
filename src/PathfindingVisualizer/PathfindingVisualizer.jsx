@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./pathfindingVisualizer.css";
-import Node from "./Node/Node";
+import Node from "./Node/node";
 import NavBar from "./navbar";
 
 //Pathfinding Algorithms
